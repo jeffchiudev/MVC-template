@@ -1,91 +1,73 @@
-# _TODOName_
+# _TODOProjectName_
 
 <div align="center">
-<img src="https://github.com/jeffchiudev.png" width="200px" height="auto" >
+<img src="https://github.com/jeffchiudev.png" width="200px" height="auto" style="border-radius: 15px 50px;">
 </div>
 <p align="center">Authored by Jeff Chiu</p>
-<p align="center">Updated on: TODO</p>
+<p align="center">Updated on: 11.dec.2020</p>
 
-#### _TODO, v1.0, 20.nov.2020_
+#### TODOBriefDescriptionofApp, v1.0, TODO01.01.20xx
 
 ## Description:
 
-_Detailed description of app._
+Detailed description of app.
 
 ## Site link
 
-_[Click here](https://jeffchiudev.github.io/TODOexample-repo/) to visit the site._
+[Click here](https://github.com/jeffchiudev/TODOProject.Solution) to visit the site.
 
 
 ## Setup/Installation Requirements:
 
 ### Software Requirements:
 
-_1. Internet browser of choice. Chrome is suggested._
+1. Internet browser of choice. Chrome is suggested.
 
-_2. A code editor like VSCode or Atom to view or edit the codebase._
+2. A code editor like VSCode or Atom to view or edit the codebase.
 
-
-### Open by downloading:
-
-_1. Download [this](https://jeffchiudev.github.io/TODOexample-repo/) repository onto your computer by clicking the 'clone or download button'._
-
-_2. This page utilizes Node package manager and requires local files to be installed. Once you've cloned the repository and it's accompanying config files, use the following command `npm install` to install the necessary NPM files to display correctly._
-
-_3. Currency changer utilizes the [TODO](https://www.TODO.com/). You will need to sign up for a free API key.  Free keys are limited to 2000 calls/month._
-
-_4. Create a .env file with `touch .env` in terminal. In that file add your own API key in as follows: `API_KEY=xxxxxxxxxxYOURKEYHERExxxxxxxxxxxx`. Save the file._
-
-_5. Type `npm run build` to compile the page into the distribution directory._
-
-_6. Type `npm run start` to begin a live server to view the page._
+3. Download C# and .NETframework [here](https://dotnet.microsoft.com/download/dotnet-core/2.2) if on windows and [here](https://dotnet.microsoft.com/download/thank-you/dotnet-sdk-2.2.106-macos-x64-installer) if on mac. To confirm install open a new Windows PowerShell window or git Bash terminal and run command `dotnet --version`. You should see a version number response similar to `2.2.203`.
 
 ### Open via Bash/GitBash:
 
-_1. Open terminal window and navigate to/create desired repository location._
+1. Open terminal window and navigate to/create desired repository location.
 
-_2. Clone this repository onto your computer by using command:_
-`git clone https://github.com/jeffchiudev/TODO`
+2. Clone this repository onto your computer by using command: `git clone https://github.com/jeffchiudev/TODOProject.Solution`
 
-_3. In the directory where you've cloned the repository, open in Visual Studio Code with `code .` or preferred text editor._
+3. Navigate to cloned repository and open in Visual Studio Code with `code .`.
 
-_4. Follow instructions above regarding set up and API key creation._
+4. In terminal, navigate to Bakery folder and run command `dotnet build` followed by `dotnet run` to see the working program.
 
 ## Testing Specifications:
 
-<details><summary>Click Here</summary>
+<details><summary>Click Here for Testing Specifications:</summary>
 <p>
 
 | Description | Input | Ouput |
 | :---------- | :---- | :---- |
-| Exchange |||
 ||||
 
 </p>
 </details>
 
-## Known Bugs:
-
-_Currently optimized for desktop browsing.  Smart device integration will be added soon._
-
 ## Support and contact details:
 
-_If there are any issues, I can be contacted at jeffchiudev@gmail.com_
+If there are any issues, I can be contacted at jeffchiudev@gmail.com
 
 
 ## Technologies Used:
 
-_* C#_
+- C# 7.3
 
-_* Node_
+- ASP.NET Core MVC
 
-_* HTML_
+- .NET Core 2.2
 
-_* CSS_
+- REPL
 
-_* ES6_
+- VS Code
 
-_* Webpack_
+- GitHub
 
-_This extension is licensed under the MIT license._
-Copyright (c) 2020 **_Jeff W. Chiu_** 
+This extension is licensed under the MIT license.
+
+Copyright (c) 2020 *_Jeffrey W. Chiu_*
